@@ -1,0 +1,32 @@
+aid: crxcavator
+name: CRXcavator
+description: "Chrome extension risk scoring"
+url: https://crxcavator.io/apidocs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Security"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Security
+  - Public APIs
+apis:
+  - name: CRXcavator
+    description: "Chrome extension risk scoring"
+    humanURL: https://crxcavator.io/apidocs
+    baseURL: https://crxcavator.io/apidocs
+    tags:
+      - Security
+    properties:
+      - type: Documentation
+        url: https://crxcavator.io/apidocs
+common:
+  - type: Website
+    url: https://crxcavator.io/apidocs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
