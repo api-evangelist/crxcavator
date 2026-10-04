@@ -39,7 +39,6 @@ apis:
   - name: CRXcavator
     description: "Chrome extension risk scoring"
     humanURL: https://crxcavator.io/apidocs
-    baseURL: https://crxcavator.io/apidocs
     tags:
       - Security
     properties:
